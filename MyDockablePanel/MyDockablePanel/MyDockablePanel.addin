@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns> 
+  <AddIn Type="Application">
+    <Name>MyDockablePanel</Name>
+    <Assembly>MyDockablePanel.dll</Assembly>
+    <AddInId>391067E6-979B-43EF-86AD-7B67B4FB0E96</AddInId>
+    <FullClassName>MyDockablePanel.Ribbon</FullClassName>
+    <ClientId>2ca14823-c1a8-4f45-b66d-c3553304d4c3</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>Global17 East</VendorDescription>
+  </AddIn>
+</RevitAddIns>

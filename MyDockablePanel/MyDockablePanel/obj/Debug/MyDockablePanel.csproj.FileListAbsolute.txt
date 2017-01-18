@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\MyDockablePanel\MyDockablePanel\bin\Debug\MyDockablePanel.dll
+c:\users\user\documents\visual studio 2015\Projects\MyDockablePanel\MyDockablePanel\bin\Debug\MyDockablePanel.pdb
+c:\users\user\documents\visual studio 2015\Projects\MyDockablePanel\MyDockablePanel\obj\Debug\MyDockablePanel.dll
+c:\users\user\documents\visual studio 2015\Projects\MyDockablePanel\MyDockablePanel\obj\Debug\MyDockablePanel.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MyDockablePanel\MyDockablePanel\obj\Debug\MainPage.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\MyDockablePanel\MyDockablePanel\obj\Debug\MyDockablePanel_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\MyDockablePanel\MyDockablePanel\obj\Debug\MyDockablePanel_MarkupCompile.lref
+C:\Users\user\Documents\Visual Studio 2015\Projects\MyDockablePanel\MyDockablePanel\obj\Debug\MainPage.baml
+C:\Users\user\Documents\Visual Studio 2015\Projects\MyDockablePanel\MyDockablePanel\obj\Debug\MyDockablePanel.g.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\MyDockablePanel\MyDockablePanel\obj\Debug\MyDockablePanel.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\MyDockablePanel\MyDockablePanel\obj\Debug\MyDockablePanel.csproj.GenerateResource.Cache
